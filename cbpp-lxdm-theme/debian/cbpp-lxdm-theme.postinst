@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = configure ]; then
+  update-alternatives --install /etc/lxdm/default.conf \
+    lxdm.conf /etc/lxdm/cbpp.lxdm.conf 60
+fi
+
+exit 0
+
