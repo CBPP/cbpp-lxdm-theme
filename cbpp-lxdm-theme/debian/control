@@ -1,15 +1,13 @@
 Source: cbpp-lxdm-theme
 Section: unknown
 Priority: optional
-Maintainer: computermouth <computermouth@thinkrad>
+Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: https://anonscm.debian.org/collab-maint/cbpp-lxdm-theme.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/cbpp-lxdm-theme.git
+Homepage: https://github.com/cbpp
 
 Package: cbpp-lxdm-theme
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Theme for lxdm
+ Theme and configuration file for lxdm out of the box
