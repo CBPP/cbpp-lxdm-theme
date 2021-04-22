@@ -1,3 +1,9 @@
+cbpp-lxdm-theme (11.0) unstable; urgency=medium
+
+  * Version bump
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 22 Apr 2021 13:17:16 -0800
+
 cbpp-lxdm-theme (10.0) unstable; urgency=medium
 
   * Updated to look more like the old slim theme. Thanks, Gene Grevemberg (@tacojones)!
