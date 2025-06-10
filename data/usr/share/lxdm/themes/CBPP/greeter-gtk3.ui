@@ -16,7 +16,7 @@
           <object class="GtkEventBox" id="eventbox1">
             <property name="visible">True</property>
             <property name="can-focus">False</property>
-            <property name="margin-start">150</property>
+            <property name="margin-start">200</property>
             <child>
               <object class="GtkBox" id="vbox2">
                 <property name="visible">True</property>

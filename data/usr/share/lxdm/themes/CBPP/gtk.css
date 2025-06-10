@@ -1,24 +1,18 @@
 #lxdm {
-	background-image: url("wave.svg");
+	background-image: url("bg.png");
 	background-repeat: round;
 }
 
-#bottom_pane {
-	background-color: rgba(0,0,0,0.24);
-}
-
-#time {
-	font: Sans 12;
-	color: #ffffff;
+#eventbox1 {
+	background-color: rgba(0,0,0,0.15);
 }
 
 #prompt {
-	font: Sans 14;
-	color: #000000;
+	font: Sans 16;
+	color: #646566;
 }
 
-#bottom_pane label,
-#bottom_pane GtkLabel {
-	font: Sans 12;
-	color: #9E9D9B;
+#login_entry {
+	font: Sans 16;
+	border-color: #646566;
 }
