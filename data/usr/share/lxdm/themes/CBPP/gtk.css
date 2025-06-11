@@ -15,4 +15,5 @@
 #login_entry {
 	font: Sans 12;
 	border-color: #646566;
+	border-radius: 0;
 }
